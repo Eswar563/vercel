@@ -1,0 +1,7 @@
+POST https://eswar-liart.vercel.app/api/auth/register
+Content-Type: application/json
+
+{
+  "username": "tesjytuserr",
+  "password": "testpassword"
+}
